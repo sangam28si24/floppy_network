@@ -1,0 +1,5 @@
+# drift test (no position correction)  N=1600  contacts=2240  z=2.8
+# T=0.01  dt=0.001  steps=1
+# col: step  KE  max_bar_err  px  py
+0	4.79	5.931212e-14	-4.198031e-15	-3.597816e-15
+1	4.79	2.584219e-11	-5.370704e-15	-3.511080e-15

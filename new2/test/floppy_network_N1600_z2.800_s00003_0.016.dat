@@ -1,0 +1,7 @@
+# rescale ablation test  N=1600  contacts=2240  z=2.8
+# T=0.005  dt=0.016  steps=1
+# col: step  variant  KE  max_bar_err  px  py
+0	rescaled	2.395	4.717679e-14	-7.344819e-15	-2.713541e-15
+1	rescaled	2.395000015	5.326506e-15	-6.227657e-15	-5.132613e-15
+0	no_rescale	2.395	4.717679e-14	-7.344819e-15	-2.713541e-15
+1	no_rescale	2.395000015	5.326506e-15	-6.463580e-15	-4.640819e-15
